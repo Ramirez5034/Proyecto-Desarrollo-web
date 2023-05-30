@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <nombre>Pablo</nombre>
+  <APaterno>Ramirez</APaterno>
+  <AMaterno>Ortiz</AMaterno>
+  <salario>1200</salario>
+  <telefono>8662373023</telefono>
+  <FechaContratacion>2021-04-06</FechaContratacion>
+  <nombreSucursal>Sucursal Monclova</nombreSucursal>
+  <nombreArea>Limpieza</nombreArea>
+  <nombreUsuario>Pablo</nombreUsuario>
+ </registro>
+ <registro>
+  <nombre>Yael</nombre>
+  <APaterno>reyes</APaterno>
+  <AMaterno>jesus</AMaterno>
+  <salario>2500</salario>
+  <telefono>8662389782</telefono>
+  <FechaContratacion>2020-08-17</FechaContratacion>
+  <nombreSucursal>Sucursal Monclova</nombreSucursal>
+  <nombreArea>Limpieza</nombreArea>
+  <nombreUsuario>Yael</nombreUsuario>
+ </registro>
+ <registro>
+  <nombre>Evelin</nombre>
+  <APaterno>Barrera</APaterno>
+  <AMaterno>Torres</AMaterno>
+  <salario>2000</salario>
+  <telefono>8662389782</telefono>
+  <FechaContratacion>2021-05-24</FechaContratacion>
+  <nombreSucursal>Sucursal Monclova</nombreSucursal>
+  <nombreArea>Limpieza</nombreArea>
+  <nombreUsuario>Evelin</nombreUsuario>
+ </registro>
+ <registro>
+  <nombre>Marisol</nombre>
+  <APaterno>Ramos</APaterno>
+  <AMaterno>Reyes</AMaterno>
+  <salario>2500</salario>
+  <telefono>8661233023</telefono>
+  <FechaContratacion>2023-03-15</FechaContratacion>
+  <nombreSucursal>Sucursal Pape</nombreSucursal>
+  <nombreArea>Limpieza</nombreArea>
+  <nombreUsuario>Mari</nombreUsuario>
+ </registro>
+ <registro>
+  <nombre>Hector</nombre>
+  <APaterno>Rodriguez</APaterno>
+  <AMaterno>Mendez</AMaterno>
+  <salario>2000</salario>
+  <telefono>8661233023</telefono>
+  <FechaContratacion>2018-02-01</FechaContratacion>
+  <nombreSucursal>Sucursal cdm</nombreSucursal>
+  <nombreArea>Mesas</nombreArea>
+  <nombreUsuario>Hector</nombreUsuario>
+ </registro>
+ <registro>
+  <nombre>Laura</nombre>
+  <APaterno>García</APaterno>
+  <AMaterno>Hernandez</AMaterno>
+  <salario>3000</salario>
+  <telefono>8666546789</telefono>
+  <FechaContratacion>2018-03-04</FechaContratacion>
+  <nombreSucursal>Sucursal Monclova</nombreSucursal>
+  <nombreArea>Limpieza</nombreArea>
+  <nombreUsuario>Laura</nombreUsuario>
+ </registro>
+</tabla>

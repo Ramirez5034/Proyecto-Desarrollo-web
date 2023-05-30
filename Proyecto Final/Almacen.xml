@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <nombre>Almacen</nombre>
+  <APaterno>Mari</APaterno>
+  <AMaterno>1234</AMaterno>
+ </registro>
+ <registro>
+  <nombre>Acentral</nombre>
+  <APaterno>Yael</APaterno>
+  <AMaterno>890</AMaterno>
+ </registro>
+</tabla>
